@@ -1,7 +1,7 @@
 # SwinDense-GAM-UNet-
 
-DATASETS n/
-NAME : MSD (Medical Segmentation Decathlon) – Prostate Dataset (Task05_Prostate)
+## DATASETS 
+###NAME : MSD (Medical Segmentation Decathlon) – Prostate Dataset (Task05_Prostate)
 LINK : https://huggingface.co/datasets/Novel-BioMedAI/Medical_Segmentation_Decathlon
 
 NAME : PROMISE12 
