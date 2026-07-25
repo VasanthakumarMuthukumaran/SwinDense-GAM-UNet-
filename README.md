@@ -1,4 +1,4 @@
-# SwinDense-GAM-UNet-
+# SwinDense-GAM-UNet++
 
 ## DATASETS 
 **NAME:** MSD (Medical Segmentation Decathlon) – Prostate Dataset (Task05_Prostate)<br>
